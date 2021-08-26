@@ -1,0 +1,4 @@
+auto - car
+laukku - bag
+roska - garbage
+tietokone - computer
